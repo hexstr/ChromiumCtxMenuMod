@@ -1,0 +1,8 @@
+.vs
+.cache
+build
+libs
+*.json
+*.yaml
+HLConfig
+BinOutput
